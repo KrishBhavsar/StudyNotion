@@ -1,1 +1,1 @@
-# StudyNotion
+# StudyNotion Edtech PlatForm
